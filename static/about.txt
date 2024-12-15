@@ -1,0 +1,12 @@
+This favicon was generated using the following font:
+
+- Font Title: Allura
+- Font Author: Copyright 2010 The Allura Project Authors (https://github.com/googlefonts/allura)
+- Font Source: https://fonts.gstatic.com/s/allura/v21/9oRPNYsQpS4zjuAPjAIXPtrrGA.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
+
+font color #fff, bg-color #f80
+background: circle
+font variant: 400 regular
+font size: 90
+text: W
