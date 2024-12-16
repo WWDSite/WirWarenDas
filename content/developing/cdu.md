@@ -55,3 +55,18 @@ https://mastodon.social/@captainfutura/112795301035382728
 # Nichts als Hetze und Unkenntnis
 
 https://mastodon.social/@captainfutura/112795278268536687
+
+# Die geplante Steuerreform geht wohl nicht auf?
+
+Eine Umverteilung von unten nach oben wäre sie auf jeden Fall:
+
+- Unternehmenssteuer senken
+- Abschaffung Soli
+- Erleichterung bei Abschreibungen
+- Erbschaftssteuer: Freibeträge senken
+
+Das Geld wird woanders fehlen. Und .. by the way .. wer soll das bezahlen? Die Muttis, die drei Jobs machen, damit sie sich eine Wohnung leisten können?
+
+Merz will amerikanische Verhältnisse. Der Mann wäre unser Untergang.
+
+https://www.zeit.de/politik/deutschland/2024-12/cdu-wahlprogramm-bundestagswahl-finanzierung-migration
