@@ -51,3 +51,17 @@ Wie hier berichtet wird, ist der Attentäter von Magdeburg ein Fan fon AfD und E
 Wann kapieren die Leute endlich diese Zusammenhänge, und ziehen Konsequenzen?
 
 https://nos.nl/artikel/2549126-aanslag-kerstmarkt-maagdenburg-dit-weten-we-over-toedracht-slachtoffers-en-dader
+
+## Damit hätte nun wirklich keiner rechnen können..?
+
+Dieses gejammer der Verantwortlichen ("...damit konnte nun wirklich keiner rechnen...") geht mir sowas von auf die Nuss.
+
+_JEDESMAL_ nach so einem Vorfall fordern sie Erweiterung der Kompetenzen, Massenüberwachung, Vorratsdatenspeicherung etc... Wenn dann wieder was passsiert, dann konnte man das ja nicht ahnen.
+
+Wie wäre es, wenn endlich mal was getän würde? Aktiv? Mit den aktuellen Befugnissen? Das gilt speziell auch für Politiker. Nicht immer nur sabbeln, und den schwarzen Peter den anderen zuschieben!
+
+https://www.tagesschau.de/inland/innenpolitik/magdeburg-anschlag-weihnachtsmarkt-100.html
+
+Hat jemand das Interview mit Hrn. Langhans gesehen, dem Direktor der Inspektion Magdeburg? Ich hatte den Eindruck, er würde gleich beim reden einschlafen.
+
+WACHT MAL AUF UND TUT EUREN JOB!
