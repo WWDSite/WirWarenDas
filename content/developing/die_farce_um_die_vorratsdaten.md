@@ -53,3 +53,9 @@ Fordern, fordern, fordern. Euren Job könnt ihr nicht einfach mal machen?
 Die Voratsdatenspeicherung und Internetüberwachung (letzteres ist wohlgemerkt Neuland) muß den zahlenden Milliarären ein spezielles Anliegen sein. Wir sollten mal bei Elon nachfragen.
 
 https://media.tagesschau.de/video/2024/1222/TV-20241222-2017-4800.webl.h264.mp4
+
+## Ja ... warum wurde den Hinweisen nicht nachgegangen?
+
+https://www.tagesschau.de/inland/innenpolitik/anschlag-magdeburg-aufklaerung-102.html?at_medium=mastodon&at_campaign=tagesschau.de
+
+
