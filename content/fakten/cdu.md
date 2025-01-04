@@ -28,3 +28,9 @@ https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_100551910/spd-fr
 https://www.mopo.de/hamburg/beschiss-krankenkassen-chef-rechnet-mit-jens-spahn-ab/
 
 Jetzt benötigen sie nur eine Möglichkeit, das auch den Grünen anzuhängen.
+
+## Update
+
+Auch Martin stößt das auf:
+
+[Martin Uedings Blog](https://martin-ueding.de/posts/ernuchterung-uber-tagesschau-wegen-mangelndem-hintergrund/)
