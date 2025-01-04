@@ -1,9 +1,9 @@
 ---
 title: {{ replace .TranslationBaseName "-" " " | title }}
-subtitle: Sich entwickelnde Geschichte. Mehr Fakten nötig!
+subtitle: Gut Dokumentiertes
 date: {{ .Date }}
 slug: {{ substr .File.UniqueID 0 7 }}
-draft: true
+draft: false
 author:
   name: WWD
   link: 
@@ -15,9 +15,11 @@ license:
 comment: false
 weight: 0
 tags:
-  - draft
+  - Facts
+  - Fakten
 categories:
-  - Sich_entwickelndes
+  - Facts
+  - Fakten
 hiddenFromHomePage: false
 hiddenFromSearch: false
 hiddenFromRss: false

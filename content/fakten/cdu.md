@@ -1,11 +1,43 @@
 ---
-title: Cdu
-subtitle:
-date: 2024-08-21T10:49:02+02:00
-slug: b25bd1b
+title: CDU
+subtitle: Gut Dokumentiertes
+date: 2025-01-04T12:48:50+01:00
+slug: 8c79001
+draft: false
+author:
+  name: WWD
+  link: 
+  email: wwd@wir-waren-das.de
+  avatar:
 description:
-keywords: afd landtagswahl
-draft: true
+keywords:
+license:
+comment: false
+weight: 0
+tags:
+  - Facts
+  - Fakten
+categories:
+  - Facts
+  - Fakten
+hiddenFromHomePage: false
+hiddenFromSearch: false
+hiddenFromRss: false
+hiddenFromRelated: false
+summary:
+resources:
+  - name: featured-image
+    src: featured-image.jpg
+  - name: featured-image-preview
+    src: featured-image-preview.jpg
+toc: true
+math: false
+lightgallery: false
+password:
+message:
+repost:
+  enable: true
+  url:
 ---
 
 # Landtagswahlen 2024
@@ -24,6 +56,8 @@ https://www.faz.net/aktuell/feuilleton/medien/cdu-zeigt-in-wahlwerbespot-bilder-
 https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_100551910/spd-fraktionsmanagerin-katja-mast-merz-betreibt-arbeitsverweigerung-.html
 
 # Spahn und seine Farce mit den Krankenkassenbeiträge
+
+Krankenkassenbeiträge steigen, weil die Reserven aufgebraucht sind. Zu gunsten eine ganz bestimmten Zielgruppe.
 
 https://www.mopo.de/hamburg/beschiss-krankenkassen-chef-rechnet-mit-jens-spahn-ab/
 
