@@ -72,3 +72,14 @@ Auch Martin stößt das auf:
 # Übrigens: Spahn fordert gern mal etwas
 
 Irgendetwas, was von seinem Versagen ablenkt. [Hier dokumentiert](https://jens-spahn-fordert.de)
+
+# Dieses Meme haut einen um ... 
+
+[Forderungen der Union](https://mastodon.social/@TwraSun/113787785972944102)
+
+
+In der Migrationspolitik fordert die CDU/CSU rechtlich unmögliches.
+In der Energiepolitik fordert die CDU/CSU physikalisch unmögliches.
+In der Finanzpolitik fordert die CDU/CSU mathematisch unmögliches.
+
+Unmögliches ... Tja.
