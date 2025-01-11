@@ -1,6 +1,6 @@
 ---
-title: Cdu_klöckner
-subtitle: Gut Dokumentiertes
+title: CDU/Julia Klöckner
+subtitle: Wir sind menschenfeindlicher ...
 date: 2025-01-10T07:24:45+01:00
 slug: a6e882d
 draft: false
@@ -58,5 +58,5 @@ Es geht den Union-lern einfach nicht in den Kopf, daß das ständige normalieren
 
 Oder vermutlich ist das deren Plan.
 
-[RND](https://www.rnd.de/politik/julia-kloeckner-cdu-politikerin-loescht-instagram-post-zur-afd-nach-kritik-BWEH3M563ZOH7EH6DSXM3OLDHU.html)
-[Wayback Machine Archiv](https://web.archive.org/web/20250111080924/https://www.rnd.de/politik/julia-kloeckner-cdu-politikerin-loescht-instagram-post-zur-afd-nach-kritik-BWEH3M563ZOH7EH6DSXM3OLDHU.html)
+- [RND](https://www.rnd.de/politik/julia-kloeckner-cdu-politikerin-loescht-instagram-post-zur-afd-nach-kritik-BWEH3M563ZOH7EH6DSXM3OLDHU.html)
+- [Wayback Machine Archiv](https://web.archive.org/web/20250111080924/https://www.rnd.de/politik/julia-kloeckner-cdu-politikerin-loescht-instagram-post-zur-afd-nach-kritik-BWEH3M563ZOH7EH6DSXM3OLDHU.html)
