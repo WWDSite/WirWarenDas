@@ -1,5 +1,5 @@
 ---
-title: CDU/Julia Klöckner
+title: CDUs Julia Klöckner
 subtitle: Wir sind menschenfeindlicher ...
 date: 2025-01-10T07:24:45+01:00
 slug: a6e882d
