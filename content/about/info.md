@@ -1,6 +1,6 @@
 ---
 title: Worum geht es hier?
-subtitle:
+subtitle: Mitmach-Informationen
 date: 2024-06-19T10:52:53+02:00
 slug: f4d7d8e
 draft: false
@@ -46,3 +46,7 @@ Sie sollte nicht mit ihren Lügen davonkommen dürfen.
 Gesucht sind alle Meldungen bundesweit.
 
 Wenn möglich, verlinkt sie auch auf die [Wayback Machine](https://web.archive.org), wo ihr die Artikel vorher archiviert.
+
+# Repository
+
+- [Hier](https://github.com/WWDSite/WirWarenDas) könnt Ihr Eure Anteile beitragen. Kreiert einen Fork, pusht dort hinein, und sendet mir einen Pull-Request.
