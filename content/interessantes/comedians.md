@@ -44,7 +44,7 @@ repost:
 ---
 # Marc Uwe Kling zur Hetze
 
-Das Känguruh zerlegt Merz' Argumente mit tatsächlichen zahlen.
+Das Känguruh zerlegt Merz' Argumente mit tatsächlichen Zahlen.
 
 - [VouTube](https://www.youtube.com/watch?v=ekxkveEnE2k)
 
