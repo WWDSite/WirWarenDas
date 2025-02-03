@@ -3,7 +3,7 @@ title: Gegenbewegungen
 subtitle: Was passiert hinter dem Tellerrand?
 date: 2025-02-03T08:34:14+01:00
 slug: 98b126c
-draft: true
+draft: false
 author:
   name: WWD
   link: 
