@@ -15,7 +15,9 @@ license:
 comment: false
 weight: 0
 tags:
-  - draft
+  - merz
+  - cdu
+  - bekenntnis
 categories:
   - Sich_entwickelndes
 hiddenFromHomePage: false
@@ -70,3 +72,10 @@ Das Geld wird woanders fehlen. Und .. by the way .. wer soll das bezahlen? Die M
 Merz will amerikanische Verhältnisse. Der Mann wäre unser Untergang.
 
 https://www.zeit.de/politik/deutschland/2024-12/cdu-wahlprogramm-bundestagswahl-finanzierung-migration
+
+# Merz lässt die Hosen runter, direkt vor der Wahl.
+
+Er ist ein Spalter, kein Kanzler. Das zeigt er mit seinen Äußerungen. Linke und das Attentat auf Walter Lübke zu instrumentalisieren... das ist deutlich.
+
+[Frankfurter Rundschau](https://www.fr.de/politik/reaktionen-auf-spalterische-merz-rede-vor-der-wahl-ernsthaft-verstoerend-und-rechter-demagoge-zr-93587826.html)
+[Wayback Machine](https://web.archive.org/web/*/https://www.fr.de/politik/reaktionen-auf-spalterische-merz-rede-vor-der-wahl-ernsthaft-verstoerend-und-rechter-demagoge-zr-93587826.html)
