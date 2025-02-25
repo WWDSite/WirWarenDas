@@ -130,6 +130,16 @@ enableEmoji = true
     url = "/weisskittel/"
     title = "Weisskittel am Betrügen und Bescheissen"
     weight = 9
+  [[menus.main]]
+    identifier = "Timelines"
+    parent = "main"
+    pre = "+"
+    post = ""
+    name = "Timelines"
+    url = "/timeline/"
+    title = "Wie sich Dinge entwickeln über die Zeit"
+    weight = 10
+
 
 
 # -------------------------------------------------------------------------------------
