@@ -3,7 +3,7 @@ title: Cdu_flipflop
 subtitle: Interessante Geschichten - Nur zu Deiner Information
 date: 2025-02-25T07:59:28+01:00
 slug: 72797ed
-draft: true
+draft: false
 author:
   name: WWD
   link: 
