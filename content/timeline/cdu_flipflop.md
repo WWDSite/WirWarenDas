@@ -1,6 +1,6 @@
 ---
-title: Cdu_flipflop
-subtitle: Interessante Geschichten - Nur zu Deiner Information
+title: Entwicklung von Dingen über die Zeit
+subtitle: Timelines
 date: 2025-02-25T07:59:28+01:00
 slug: 72797ed
 draft: false
