@@ -58,4 +58,8 @@ https://media.tagesschau.de/video/2024/1222/TV-20241222-2017-4800.webl.h264.mp4
 
 https://www.tagesschau.de/inland/innenpolitik/anschlag-magdeburg-aufklaerung-102.html?at_medium=mastodon&at_campaign=tagesschau.de
 
+## Und jetzt, nach der Wahl, kanns so richtig losgehen
 
+Anlasslose Massenüberwachung kann erwartet werden.
+
+- [Mit dieser Koalition auf jeden Fall](https://netzpolitik.org/2025/nach-der-wahl-anlasslose-massenueberwachung-erwartbar/)
