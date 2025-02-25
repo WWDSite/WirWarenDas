@@ -17,6 +17,7 @@ weight: 0
 tags:
   - Facts
   - Fakten
+  - BigBrother
 categories:
   - Facts
   - Fakten
@@ -75,7 +76,7 @@ Irgendetwas, was von seinem Versagen ablenkt. [Hier dokumentiert](https://jens-s
 
 # Dieses Meme haut einen um ... 
 
-[Forderungen der Union](https://mastodon.social/@TwraSun/113787785972944102)
+- [Forderungen der Union](https://mastodon.social/@TwraSun/113787785972944102)
 
 
 In der Migrationspolitik fordert die CDU/CSU rechtlich unmögliches.
@@ -83,3 +84,9 @@ In der Energiepolitik fordert die CDU/CSU physikalisch unmögliches.
 In der Finanzpolitik fordert die CDU/CSU mathematisch unmögliches.
 
 Unmögliches ... Tja.
+
+# BigBrother kuck schon über den Tellerrand
+
+Eine kleine Anfrage der Union lässt erahnen, wo die Reise hingeht am 2025. Kritik an der Union? Unerwünscht!
+
+- [Drucksache im Bundestag](https://dserver.bundestag.de/btd/20/150/2015035.pdf)
