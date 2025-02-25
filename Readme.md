@@ -22,7 +22,8 @@ Geplant habe ich folgende Kategorien unterhalb von  `content` aber das ist auch 
 ├── hass
 ├── interessantes
 ├── security
-└── weisskittel
+├── weisskittel
+└── timeline
 ```
 
 # Wo sieht man was?
