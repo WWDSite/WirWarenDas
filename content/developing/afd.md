@@ -41,7 +41,7 @@ message:
 repost:
   enable: true
   url:
-
+outputformat: html
 ---
 <!--more-->
 # AfD als Vorbild für Islamfeindlichen Terror?
