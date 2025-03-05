@@ -48,3 +48,7 @@ repost:
 Und das europaweit. Wir werden sonst immer abhängig und erpressbar sein.
 
 - [Artikel: Europas Kernenergie hängt an Russland](https://www.fuchsbriefe.de/politik/europa/europas-kernenergie-haengt-an-russland)
+
+# Ein Video über Erneuerbare und so technologieoffenes ..
+
+- [youTube](https://www.youtube.com/live/uTbiMGl0mts)
