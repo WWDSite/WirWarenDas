@@ -16,6 +16,8 @@ comment: false
 weight: 0
 tags:
   - Grüne
+  - Habeck
+  - Steuern
 categories:
   - Grüne
 hiddenFromHomePage: false
@@ -41,8 +43,14 @@ repost:
 
 # Der Habeck wieder. Was der so will. Das schadet doch der Wirtschaft. Oder?
 
-https://www.sueddeutsche.de/politik/habeck-milliardaersteuer-deutschland-li.3163755
+- [SZ](https://www.sueddeutsche.de/politik/habeck-milliardaersteuer-deutschland-li.3163755)
 
 Milliardäre abzocken geht ja wohl gar nicht. Die sperren sonst noch dein Social-Media Konto, oder ziehen unversteuerte Milliarden ins Ausland. Also wirklich...
 
 Mein Fazit: Robert, bleib dran. DAS WOLLEN WIR.
+
+# WAS HABEN DIE GRÜNEN JE FÜR UNS GETAN?
+
+Also wirklich. Jemals?
+
+- [YouTube](https://norden.social/@pahi/114028964106483863)
